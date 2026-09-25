@@ -55,11 +55,11 @@ JSONC (JSON with `//` and `/* */` comments). Shape:
 // rempkg tracked packages.
 [
   {
-    "name": "opencode",
+    "name": "cowsay",
     "manager": "pacman",
     "tags": ["tool", "delete-later"],
     "installed_at": "2026-09-25T00:00:00Z",
-    "command": "pacman -S opencode"
+    "command": "pacman -S cowsay"
   }
 ]
 ```
